@@ -10,3 +10,5 @@ olarak eklemeniz gerekmektedir.
 6. İki branch’i merge etmek için bir pull request oluşturun ve merge işlemini tamamlayın. (2 puan)
 
 Bu değişiklikler localde yapıldı. 
+
+Bu metin GitHub'da yazıldı. 
